@@ -8,3 +8,10 @@ Non-local patch methods and neural network denoising methods con-
 the above-mentioned article and then propose an implementation of their algorithm on python using
 mainly the FFDNET network.
 
+
+To reproduce our experience on NN3D
+if you do not use drive, you can skip the step of connecting the notebook NNBM.ipynb to google drive
+install all libraries at the beginning of the notebook
+- Set the direction or path to Project_image by doing % cd /Project_image in the Data part (Set12) of the notebook, otherwise change it appropriately.
+
+Author: Amekoe Kodjo Mawuena <kodjo.amekoe@ens-paris-saclay.fr> & MBIA NDI Marie Thérèse <marietherese.mbiandi@ensae.fr>
